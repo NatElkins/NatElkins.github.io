@@ -1,4 +1,7 @@
 {{ template "theme/partials/header.html" . }}
-
-
+            <h1 class="center">Posts</h1>{{ range .Data.Pages }}
+            <div class="row center posts">
+                  <div class="six columns"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+                  <div class="six columns"><time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time></div>
+            </div><hr/>{{ end }}
 {{ template "theme/partials/footer.html" . }}

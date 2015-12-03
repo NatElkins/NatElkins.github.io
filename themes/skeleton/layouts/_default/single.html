@@ -1,0 +1,8 @@
+{{ template "theme/partials/header.html" . }}
+            <div class="row">
+                <div class="six columns center"><h1>{{ .Title }}</h1></div>
+                <div class="six columns center">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
+            </div>
+            <hr/>
+            {{ . Content }}
+{{ template "theme/partials/footer.html" . }}
