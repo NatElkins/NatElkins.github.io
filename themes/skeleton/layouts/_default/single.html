@@ -1,8 +1,17 @@
 {{ template "theme/partials/header.html" . }}
             <div class="row">
-                <div class="six columns center"><h1>{{ .Title }}</h1></div>
-                <div class="six columns center">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
+                <div class="four columns" />
+                <div class="two column"><a class="navbar-link" href="/">Home</a></div>
+                <div class="two column"><a class="navbar-link" href="#">About</a></div>
+                <div class="two column"><a class="navbar-link" href="#">Projects</a></div>
+                <div class="two column"><a class="navbar-link" href="#">Blog</a></div>
             </div>
-            <hr/>
-            {{ . Content }}
+            <div class="title row">
+                <div class="twelve columns center">
+                    <h4>{{ .Title }}</h4><h6>{{ .Date.Format "Mon, Jan 2, 2006" }}</h6>
+                </div>
+            </div>
+            <div class="content">
+                {{ .Content }}
+            </div>
 {{ template "theme/partials/footer.html" . }}

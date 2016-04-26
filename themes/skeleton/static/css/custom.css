@@ -1,5 +1,23 @@
+.container {
+    max-width: 800px;
+}
+
+.right {
+    text-align: right;
+}
 .center {
     text-align: center;
+}
+
+.content {
+    padding-top: 1rem;
+}
+
+.title {
+    border-bottom: 1px solid #eee;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    font-weight: 600;
 }
 
 .splash {
