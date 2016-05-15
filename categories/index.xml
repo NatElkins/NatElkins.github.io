@@ -2,22 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nat Elkins |&gt; Blog</title>
-    <link>http://natelkins.com/</link>
+    <link>http://natelkins.com/categories/</link>
     <description>Recent content on Nat Elkins |&gt; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 May 2016 22:33:06 -0400</lastBuildDate>
-    <atom:link href="http://natelkins.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About Me</title>
-      <link>http://natelkins.com/about/</link>
-      <pubDate>Sat, 14 May 2016 22:33:06 -0400</pubDate>
-      
-      <guid>http://natelkins.com/about/</guid>
-      <description>&lt;p&gt;Hi!  This is about me.&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Wed, 02 Dec 2015 22:33:19 -0500</lastBuildDate>
+    <atom:link href="http://natelkins.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Placeholder post</title>
