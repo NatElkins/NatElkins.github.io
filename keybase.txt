@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/nelkins
+--------------------------------------------------------------------
+
+I hereby claim:
+
+ * I am an admin of http://natelkins.com
+  * I am nelkins (https://keybase.io/nelkins) on keybase.
+  * I have a public key ASC_VF9X67byxFPZQvej0rTH-kaJcAecenWjKzkkBAxlGQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bf545f57ebb6f2c453d942f7a3d2b4c7fa468970079c7a75a32b3924040c65190a",
+      "host": "keybase.io",
+      "kid": "0120bf545f57ebb6f2c453d942f7a3d2b4c7fa468970079c7a75a32b3924040c65190a",
+      "uid": "6ea65920dc15020fa8491cefd5b01319",
+      "username": "nelkins"
+    },
+    "merkle_root": {
+      "ctime": 1507155548,
+      "hash": "0070fa7d824fbbb503c086c8c7a0223a350383fe82b3cb532389a75cd675bdd1a726c95997e4813c1747b2fc36117245aa7a7ac24789a1e185bc3cb6519dcb96",
+      "hash_meta": "ad2c232f5159c85ffe84ced310a3bde663a581861f666294a1cf137d916a6e2b",
+      "seqno": 1501885
+    },
+    "service": {
+      "hostname": "natelkins.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507155575,
+  "expire_in": 504576000,
+  "prev": "f4e3cd9963b190490f41bd1b1331c81969bb50ff7742faedd2d67301ab0ab551",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgv1RfV+u28sRT2UL3o9K0x/pGiXAHnHp1oys5JAQMZRkKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYmY1NDVmNTdlYmI2ZjJjNDUzZDk0MmY3YTNkMmI0YzdmYTQ2ODk3MDA3OWM3YTc1YTMyYjM5MjQwNDBjNjUxOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmY1NDVmNTdlYmI2ZjJjNDUzZDk0MmY3YTNkMmI0YzdmYTQ2ODk3MDA3OWM3YTc1YTMyYjM5MjQwNDBjNjUxOTBhIiwidWlkIjoiNmVhNjU5MjBkYzE1MDIwZmE4NDkxY2VmZDViMDEzMTkiLCJ1c2VybmFtZSI6Im5lbGtpbnMifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDcxNTU1NDgsImhhc2giOiIwMDcwZmE3ZDgyNGZiYmI1MDNjMDg2YzhjN2EwMjIzYTM1MDM4M2ZlODJiM2NiNTMyMzg5YTc1Y2Q2NzViZGQxYTcyNmM5NTk5N2U0ODEzYzE3NDdiMmZjMzYxMTcyNDVhYTdhN2FjMjQ3ODlhMWUxODViYzNjYjY1MTlkY2I5NiIsImhhc2hfbWV0YSI6ImFkMmMyMzJmNTE1OWM4NWZmZTg0Y2VkMzEwYTNiZGU2NjNhNTgxODYxZjY2NjI5NGExY2YxMzdkOTE2YTZlMmIiLCJzZXFubyI6MTUwMTg4NX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJuYXRlbGtpbnMuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMyJ9LCJjdGltZSI6MTUwNzE1NTU3NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJmNGUzY2Q5OTYzYjE5MDQ5MGY0MWJkMWIxMzMxYzgxOTY5YmI1MGZmNzc0MmZhZWRkMmQ2NzMwMWFiMGFiNTUxIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA+E6LhW/MA07UJrAT8/Dt6DchtqQY70WAWttdJ1KaNejKBY8tfRdQf0J8yEtdOxptbC4K9SieiSKfCygyQ3v9AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH62utoziBDEBzk7nKo6kDiFVlJYvbRAei8Min6X69aao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nelkins
+
+==================================================================
